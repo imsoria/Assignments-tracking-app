@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/github.io/Assignments-tracking-app/static/css/main.3174241e.css",
+    "main.js": "/github.io/Assignments-tracking-app/static/js/main.57405940.js",
+    "static/media/soria-logo.png": "/github.io/Assignments-tracking-app/static/media/soria-logo.da0a53f3e1cccd2247c6.png",
+    "index.html": "/github.io/Assignments-tracking-app/index.html",
+    "main.3174241e.css.map": "/github.io/Assignments-tracking-app/static/css/main.3174241e.css.map",
+    "main.57405940.js.map": "/github.io/Assignments-tracking-app/static/js/main.57405940.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3174241e.css",
+    "static/js/main.57405940.js"
+  ]
+}
